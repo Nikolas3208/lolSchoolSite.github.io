@@ -1,0 +1,23 @@
+header
+{
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+    background-color: aquamarine;
+}
+
+.arm{
+    text-align: center;
+}
+nav {
+    position: relative;
+    padding: 15px;
+    text-align: center;
+}
+nav a {
+    font-size: 24px;
+    padding: 20px;
+    text-decoration: none;
+    color: green;
+
+}
