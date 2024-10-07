@@ -21,3 +21,19 @@ nav a {
     color: green;
 
 }
+
+.bottomMenu
+{
+    position: relative;
+    flex-flow: column;
+    
+    width: auto;
+    text-align: center;
+    font-size: 30px;
+    color:green;
+    background-color:lawngreen;
+}
+.lik
+{
+    margin-top: 45%;
+}
